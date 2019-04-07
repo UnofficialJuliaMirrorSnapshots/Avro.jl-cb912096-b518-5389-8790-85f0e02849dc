@@ -1,0 +1,9 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Vim
+*.swp
+
+# ctags
+tags
